@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00FFC8">Hello, I'm Ahmed</h1>
+<h1 align="center" style="color: #00FFC8">Hey, I'm Ahmed</h1>
 
 <h3 align="center">Innovative AI projects coming soon...</h3>
 <h2 align="center">Skills</h2>
