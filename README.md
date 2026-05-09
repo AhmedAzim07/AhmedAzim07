@@ -29,6 +29,6 @@
 
   <br><br>
 
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAhmedAzim07&label=Views&labelColor=%230d1117&countColor=%2300FFC8&style=flat-square"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAhmedAzim07&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square"/>
 
 </div>
