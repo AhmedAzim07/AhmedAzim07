@@ -7,24 +7,22 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
 </p>
 
 <br>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAzim07&show_icons=true&theme=dark&hide_border=true&icon_color=00FFC8&title_color=00FFC8&text_color=EBEBEB&bg_color=0d1117" alt="Ahmed's GitHub Stats" width="400"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAzim07&show_icons=true&theme=dark&hide_border=true&icon_color=00FFC8&title_color=00FFC8&text_color=EBEBEB&bg_color=0d1117&cache_seconds=1800" width="400"/>
+
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=AhmedAzim07&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&fire=EB5454&dates=EBEBEB&background=0d1117" alt="Ahmed's GitHub Streak" width="400"/>
-  
+  <img src="https://streak-stats.demolab.com?user=AhmedAzim07&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&fire=EB5454&dates=EBEBEB&background=0d1117" width="400"/>
+
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAzim07&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=00FFC8&text_color=EBEBEB&bg_color=0d1117" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAzim07&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=00FFC8&text_color=EBEBEB&bg_color=0d1117&cache_seconds=1800" width="300"/>
 
   <br><br>
 
